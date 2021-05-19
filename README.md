@@ -39,8 +39,6 @@ Pleased to meet you! I'm Ricard Garcia a graphic designer and (future) software 
 - 🛸 [Groundbeat family](https://typerepublic.com/fonts/groundbeat-1/)
 - 🍷 [Poblet](https://typerepublic.com/fonts/poblet/)
 
-
-
 -
 ### Bug alert 🚨
 
