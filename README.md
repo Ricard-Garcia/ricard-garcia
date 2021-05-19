@@ -22,7 +22,7 @@ Pleased to meet you! I'm Ricard Garcia a graphic designer and (future) software 
 - 📫 Drop me a line to [contact me](mailto:imricardgarcia@gmail.com).
 - ⚡ Also: if your band needs a bass or a trumpet player, I am your man.
 
--
+
 ### Personal projects 💻
 
 ##### Software
@@ -39,7 +39,7 @@ Pleased to meet you! I'm Ricard Garcia a graphic designer and (future) software 
 - 🛸 [Groundbeat family](https://typerepublic.com/fonts/groundbeat-1/)
 - 🍷 [Poblet](https://typerepublic.com/fonts/poblet/)
 
--
+
 ### Bug alert 🚨
 
 Some projects might have small bugs, not a big deal but just to keep you informed
