@@ -16,9 +16,7 @@ Pleased to meet you! I'm Ricard Garcia a graphic designer and (future) software 
 - 🔡 I'm a graphic and type designer. Some of my work can be found at [Typerepublic](https://typerepublic.com/)
 - 🎛 I'm a code enthusiast.
 - 🤝 I'm more than happy to collaborate in creative projects.
-- 💬 Ask me about type design and code.
 - 🚴‍♂️ If I'm not in front of a computer I'm probably up in the mountains
-- 🚀 Always open to whatever constructive is about to come.
 - 📫 Drop me a line to [contact me](mailto:imricardgarcia@gmail.com).
 - ⚡ Also: if your band needs a bass or a trumpet player, I am your man.
 
