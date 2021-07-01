@@ -21,7 +21,7 @@ Pleased to meet you! I'm Ricard Garcia a graphic designer and (future) software 
 - ⚡ Also: if your band needs a bass or a trumpet player, I am your man.
 
 
-### Personal projects 💻
+### Portfolio 💻
 
 ##### Software
 
