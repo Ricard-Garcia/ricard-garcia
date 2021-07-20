@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 Pleased to meet you! I'm Ricard Garcia a graphic designer and (future) software developer from Barcelona. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricard-garcia&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricard-garcia&langs_count=8)](https://github.com/haykbit/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ricard-garcia&langs_count=8)](https://github.com/ricard-garcia/github-readme-stats)
 
 ### A few intro lines 🖋
 
