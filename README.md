@@ -27,6 +27,8 @@ Pleased to meet you! I'm Ricard Garcia a graphic designer and (future) software 
 
 ### Portfolio 💻
 
+www.ricardgarcia.xyz
+
 ##### Software
 
 - 📖 [Blog with API](https://ricard-garcia.github.io/projects/blog-with-api/)
