@@ -31,6 +31,7 @@ www.ricardgarcia.xyz
 
 ##### Software
 
+- 🌊 [WaveApp](https://the-wave-app.netlify.app/) (Final Master Project at Assembler School)
 - 📖 [Blog with API](https://ricard-garcia.github.io/projects/blog-with-api/)
 - 📆 [Calendar](https://ricard-garcia.github.io/projects/calendar/)
 - 🧮 [Calculator](https://ricard-garcia.github.io/projects/calculator/)
