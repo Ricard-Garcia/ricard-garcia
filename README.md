@@ -16,7 +16,7 @@ Pleased to meet you! I'm Ricard Garcia a graphic designer and (future) software 
 ### A few intro lines 🖋
 
 - 🔭 Always curious about creativity involving graphic design & code.
-- 🌱 Currently learning software development at [Assembler School](https://www.assemblerschool.com/)
+- 🌱 Software development alumni of [Assembler School](https://www.assemblerschool.com/)
 - 🔡 Also graphic and type designer. Some of my work can be found at [Typerepublic](https://typerepublic.com/)
 - 🎛 Code enthusiast.
 - 🤝 More than happy to collaborate in creative projects.
