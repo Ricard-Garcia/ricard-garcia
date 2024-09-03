@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-Pleased to meet you! I'm Ricard Garcia a graphic designer and (future) software developer from Barcelona. 
+Pleased to meet you! I'm Ricard Garcia a graphic designer and software developer from Barcelona. 
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricard-garcia&show_icons=true)
@@ -21,7 +21,7 @@ Pleased to meet you! I'm Ricard Garcia a graphic designer and (future) software 
 - 🔡 Also graphic and type designer. Some of my work can be found at [Typerepublic](https://typerepublic.com/)
 - 🎛 Code enthusiast.
 - 🤝 More than happy to collaborate in creative projects.
-- 🚴‍♂️ If I'm not in front of a computer I'm probably up in the mountains
+- 🚴‍♂️ If I'm not in front of a computer I'm probably up in the mountains.
 - 📫 Drop me a line to [contact me](mailto:imricardgarcia@gmail.com).
 - ⚡ Also: if your band needs a bass or a trumpet player, I am your man.
 
