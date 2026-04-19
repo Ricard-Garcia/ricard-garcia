@@ -16,7 +16,7 @@ Pleased to meet you! I'm Ricard Garcia a graphic designer and software developer
 ### A few intro lines 🖋
 
 - 🔭 Always curious about creative coding.
-- 👨🏻‍💻 Frontend developer at [Hanzo](https://hanzo.es/)
+- 👨🏻‍💻 Frontend developer at [Domestic Data Streamers](https://domesticstreamers.com/)
 - 🌱 Software development alumni of [Assembler School](https://www.assemblerschool.com/)
 - 🔡 Also graphic and type designer. Some of my work can be found at [Typerepublic](https://typerepublic.com/)
 - 🎛 Code enthusiast.
